@@ -6,7 +6,6 @@ import './style.css';
 export const RedQueenRace = () => {
     var playbackrateRQ = 1;
     var playbackrateBG = 0;
-
     const sceneryFrames = [
         { transform: "translateX(100%)" },
         { transform: "translateX(-100%)" },

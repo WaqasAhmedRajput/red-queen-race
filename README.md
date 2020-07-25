@@ -1,6 +1,6 @@
 ### UseWebAnimation API Add In React 
 Adding With yarn add @wellyshen/use-web-animations
-WAAPI terms
+WAAPI terms.
 ### Surge URL :
 you check this project please visit this site
 http://waapi-animation.surge.sh/
